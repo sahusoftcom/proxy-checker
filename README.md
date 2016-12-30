@@ -66,7 +66,7 @@ SahusoftCom\ProxyChecker\ProxyCheckerServiceProvider::class
 
  ## Sample Output
  
- ```json
+ ```
 Array
 	(
 		[XXX.XXX.XXX.XXX:XXXX,username:password] => Array
