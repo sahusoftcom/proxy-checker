@@ -113,7 +113,7 @@ SahusoftCom\ProxyChecker\ProxyCheckerServiceProvider::class
 								[starttransfer_time] => 1.758965
 								[redirect_time] => 0
 								[redirect_url] => 
-								[primary_ip] => 162.244.134.115
+								[primary_ip] => XXX.XXX.XXX.XXX
 								[certinfo] => Array
 									(
 									)
