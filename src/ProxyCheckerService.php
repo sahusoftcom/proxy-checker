@@ -72,13 +72,13 @@ class ProxyCheckerService
         }
 
         // check post
-        if (in_array('post', $this->config['check'])) {
+        // if (in_array('post', $this->config['check'])) {
             
-            $options[CURLOPT_POST] = true;
-            $options[CURLOPT_POSTFIELDS] = [
-                                                'r' => 'request'
-                                            ];
-        }
+        //     $options[CURLOPT_POST] = true;
+        //     $options[CURLOPT_POSTFIELDS] = [
+        //                                         'r' => 'request'
+        //                                     ];
+        // }
         
         // check cookie
         if (in_array('cookie', $this->config['check']))
