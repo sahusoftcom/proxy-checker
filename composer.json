@@ -1,0 +1,19 @@
+{
+    "name": "faizahmedfarooqui/proxy-checker",
+    "description": "PHP (Laravel) Package to check proxy status with all the necessary details",
+    "authors": [
+        {
+            "name": "faizahmedfarooqui",
+            "email": "faiz@sahusoft.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SahusoftCom\\ProxyChecker\\": "src/"
+        }
+    }
+}
