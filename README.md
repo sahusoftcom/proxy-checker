@@ -1,4 +1,4 @@
-Proxy Checker Laravel Version: 0.2
+Proxy Checker Laravel Version: 0.2 
 ==========================
 
 Service Provider for Proxy Checking (type - http, socks4, socks5) that returns all the necessary information related to each proxy(s) for Laravel PHP Framework [ [Packagist] ]
